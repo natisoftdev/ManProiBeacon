@@ -1,0 +1,55 @@
+/*
+ Localizable.strings
+ ManProiBeacon
+ 
+ Created by Natisoft on 14/06/2019.
+ Copyright © 2019 Kode. All rights reserved.
+ */
+
+/* -- Pannello -- */
+//INTERNET
+"Il dispositivo è connesso a Internet" = "Urządzenie jest podłączone do Internetu";
+"Il dispositivo NON è connesso a Internet" = "Urządzenie NIE jest podłączone do Internetu";
+//GPS
+"Il dispositivo ha il GPS attivo" = "Urządzenie ma aktywny GPS";
+"Il dispositivo NON ha il GPS attivo" = "Urządzenie NIE ma aktywnego GPS";
+//Bottoni
+"Test Connessione" = "Test Połączenia";
+"Test GPS" = "Test GPS";
+//Parte Grafica
+"In questo pannello è possibile verificare in modo rapido se sul dispositivo sono attive le funzionalità inerenti al corretto funzionamento dell'applicazione" = "W tym panelu można szybko sprawdzić, czy urządzenie jest aktywne w funkcjach właściwych dla prawidłowego działania aplikacji";
+
+/* -- MenuViewController -- */
+"Home" = "Home";
+"Pannello di controllo" = "Panel sterowania";
+"Impostazioni" = "Ustawienia";
+
+/* -- HomeVC -- */
+"LivelloBatteria" = "Poziom naładowania baterii";
+"Data Scansione" = "Skanowanie daty";
+"Prossimità" = "Niedaleko";
+"Sconosciuto" = "Nieznany";
+"Molto vicino" = "Bardzo blisko";
+"Nelle vicinanze" = "W pobliżu";
+"Lontano" = "Daleko";
+"In caricamento......" = "Ładowanie......";
+
+/* -- Impostazioni -- */
+"Account" = "Konto";
+"Indirizzo del portale" = "Adres portalu";
+"Ad esempio https://sviluppo.manpronet.com" = "Na przykład https://sviluppo.manpronet.com";
+"Identificativo del database" = "Identyfikator bazy danych";
+"Il dato viene fornito dal gestore" = "Dane są dostarczane przez operatora";
+"Login" = "Zaloguj się";
+"Password" = "Hasło";
+"Salva" = "Zapisz";
+"Versione dell'applicazione" = "Wersja aplikacji";
+"Indirizzo utilizzato per collegarsi al portale. Ad esempio https://sviluppo.manpronet.com" = "Adres używany do połączenia z portalem. Na przykład https://sviluppo.manpronet.com";
+"Indirizzo del portale non corretto" = "Nieprawidłowy adres portalu";
+
+//Testi provenienti da pagina web
+"Nome utente o password errati" = "Nieprawidłowa nazwa użytkownika lub hasło";
+"Risorsa non associata all'utente selezionato" = "Zasób niepowiązany z wybranym użytkownikiem";
+"Le impostazioni di connessione risultano corrette" = "Ustawienia połączenia są prawidłowe";
+"Database non impostato correttamente" = "Baza danych nie została poprawnie skonfigurowana";
+"Database non impostato" = "Baza danych nie jest ustawiona";

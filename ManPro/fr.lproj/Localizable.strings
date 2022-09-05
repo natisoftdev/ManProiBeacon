@@ -1,0 +1,55 @@
+/*
+ Localizable.strings
+ ManProiBeacon
+ 
+ Created by Natisoft on 14/06/2019.
+ Copyright © 2019 Kode. All rights reserved.
+ */
+
+/* -- Pannello -- */
+//INTERNET
+"Il dispositivo è connesso a Internet" = "L'appareil est connecté à Internet";
+"Il dispositivo NON è connesso a Internet" = "L'appareil n'est PAS connecté à Internet";
+//GPS
+"Il dispositivo ha il GPS attivo" = "L'appareil a le GPS actif";
+"Il dispositivo NON ha il GPS attivo" = "L'appareil n'a pas de GPS actif";
+//Bottoni
+"Test Connessione" = "Test de connexion";
+"Test GPS" = "Test GPS";
+//Parte Grafica
+"In questo pannello è possibile verificare in modo rapido se sul dispositivo sono attive le funzionalità inerenti al corretto funzionamento dell'applicazione" = "Dans ce panneau, il est possible de vérifier rapidement si l'appareil est actif dans les fonctionnalités inhérentes au bon fonctionnement de l'application";
+
+/* -- MenuViewController -- */
+"Home" = "Home";
+"Pannello di controllo" = "Panneau de contrôle";
+"Impostazioni" = "Réglages";
+
+/* -- HomeVC -- */
+"LivelloBatteria" = "Niveau de batterie";
+"Data Scansione" = "Date Scan";
+"Prossimità" = "Près de";
+"Sconosciuto" = "Inconnu";
+"Molto vicino" = "Très proche";
+"Nelle vicinanze" = "À proximité";
+"Lontano" = "Loin";
+"In caricamento......" = "Chargement......";
+
+/* -- Impostazioni -- */
+"Account" = "Account";
+"Indirizzo del portale" = "Adresse du portail";
+"Ad esempio https://sviluppo.manpronet.com" = "Par exemple, https://sviluppo.manpronet.com";
+"Identificativo del database" = "Identifiant de base de données";
+"Il dato viene fornito dal gestore" = "Les données sont fournies par l'opérateur";
+"Login" = "Login";
+"Password" = "Password";
+"Salva" = "Enregistrer";
+"Versione dell'applicazione" = "Version de l'application";
+"Indirizzo utilizzato per collegarsi al portale. Ad esempio https://sviluppo.manpronet.com" = "Adresse utilisée pour se connecter au portail. Par exemple, https://sviluppo.manpronet.com";
+"Indirizzo del portale non corretto" = "Adresse de portail incorrecte";
+
+//Testi provenienti da pagina web
+"Nome utente o password errati" = "Nom d'utilisateur ou mot de passe incorrect";
+"Risorsa non associata all'utente selezionato" = "Ressource non associée à l'utilisateur sélectionné";
+"Le impostazioni di connessione risultano corrette" = "Les paramètres de connexion sont corrects";
+"Database non impostato correttamente" = "La base de données n'est pas configurée correctement";
+"Database non impostato" = "Base de données non définie";

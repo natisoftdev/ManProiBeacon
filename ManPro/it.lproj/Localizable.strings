@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  ManProiBeacon
+
+  Created by Natisoft on 14/06/2019.
+  Copyright © 2019 Kode. All rights reserved.
+*/
+
+/* -- Pannello -- */
+//INTERNET
+"Il dispositivo è connesso a Internet" = "Il dispositivo è connesso a Internet";
+"Il dispositivo NON è connesso a Internet" = "Il dispositivo NON è connesso a Internet";
+//GPS
+"Il dispositivo ha il GPS attivo" = "Il dispositivo ha il GPS attivo";
+"Il dispositivo NON ha il GPS attivo" = "Il dispositivo NON ha il GPS attivo";
+//Bottoni
+"Test Connessione" = "Test Connessione";
+"Test GPS" = "Test GPS";
+//Parte Grafica
+"In questo pannello è possibile verificare in modo rapido se sul dispositivo sono attive le funzionalità inerenti al corretto funzionamento dell'applicazione" = "In questo pannello è possibile verificare in modo rapido se sul dispositivo sono attive le funzionalità inerenti al corretto funzionamento dell'applicazione";
+
+/* -- MenuViewController -- */
+"Home" = "Home";
+"Pannello di controllo" = "Pannello di controllo";
+"Impostazioni" = "Impostazioni";
+
+/* -- HomeVC -- */
+"LivelloBatteria" = "LivelloBatteria";
+"Data Scansione" = "Data Scansione";
+"Prossimità" = "Prossimità";
+"Sconosciuto" = "Sconosciuto";
+"Molto vicino" = "Molto vicino";
+"Nelle vicinanze" = "Nelle vicinanze";
+"Lontano" = "Lontano";
+"In caricamento......" = "In caricamento......";
+
+/* -- Impostazioni -- */
+"Account" = "Account";
+"Indirizzo del portale" = "Indirizzo del portale";
+"Ad esempio https://sviluppo.manpronet.com" = "Ad esempio https://sviluppo.manpronet.com";
+"Identificativo del database" = "Identificativo del database";
+"Il dato viene fornito dal gestore" = "Il dato viene fornito dal gestore";
+"Login" = "Login";
+"Password" = "Password";
+"Salva" = "Salva";
+"Versione dell'applicazione" = "Versione dell'applicazione";
+"Indirizzo utilizzato per collegarsi al portale. Ad esempio https://sviluppo.manpronet.com" = "Indirizzo utilizzato per collegarsi al portale. Ad esempio https://sviluppo.manpronet.com";
+"Indirizzo del portale non corretto" = "Indirizzo del portale non corretto";
+
+//Testi provenienti da pagina web
+"Nome utente o password errati" = "Nome utente o password errati";
+"Risorsa non associata all'utente selezionato" = "Risorsa non associata all'utente selezionato";
+"Le impostazioni di connessione risultano corrette" = "Le impostazioni di connessione risultano corrette";
+"Database non impostato correttamente" = "Database non impostato correttamente";
+"Database non impostato" = "Database non impostato";

@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2nH-iK-SgR"; */
+"2nH-iK-SgR.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9H8-J0-4th"; */
+"9H8-J0-4th.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I7M-x2-q8K"; */
+"I7M-x2-q8K.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LAg-AF-eOr"; */
+"LAg-AF-eOr.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q60-3k-XSH"; */
+"Q60-3k-XSH.text" = "Label";
+
+/* Class = "UIViewController"; title = "Pannello di controllo"; ObjectID = "QAG-oK-zcs"; */
+"QAG-oK-zcs.title" = "Panel sterowania";
+
+/* Class = "UITextView"; text = "In caricamento......"; ObjectID = "Rmi-9s-upy"; */
+"Rmi-9s-upy.text" = "Ładowanie......";
+
+/* Class = "UIButton"; normalTitle = "Test GPS"; ObjectID = "Wrx-QO-Kyr"; */
+"Wrx-QO-Kyr.normalTitle" = "Test GPS";
+
+/* Class = "UIButton"; normalTitle = "Test Connessione"; ObjectID = "XCH-WX-1ov"; */
+"XCH-WX-1ov.normalTitle" = "Test połączenia";
+
+/* Class = "UINavigationItem"; title = "ManProiBeacon"; ObjectID = "a1u-Ki-tSz"; */
+"a1u-Ki-tSz.title" = "ManProiBeacon";
+
+/* Class = "UINavigationItem"; title = "Impostazioni"; ObjectID = "f24-Ia-thn"; */
+"f24-Ia-thn.title" = "Ustawienia";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gjQ-ni-ptY"; */
+"gjQ-ni-ptY.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hbj-uX-AL7"; */
+"hbj-uX-AL7.text" = "Label";
+
+/* Class = "UILabel"; text = "In questo pannello è possibile verificare in modo rapido se sul dispositivo sono attive le funzionalità inerenti al corretto funzionamento dell'applicazione"; ObjectID = "neB-2W-Je8"; */
+"neB-2W-Je8.text" = "W tym panelu można szybko sprawdzić, czy urządzenie jest aktywne w funkcjach właściwych dla prawidłowego działania aplikacji";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oSm-Gr-3rP"; */
+"oSm-Gr-3rP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ox9-2w-NiL"; */
+"ox9-2w-NiL.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pC7-Rp-Oi4"; */
+"pC7-Rp-Oi4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uKc-jD-REn"; */
+"uKc-jD-REn.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xyy-9F-9kj"; */
+"xyy-9F-9kj.text" = "Label";

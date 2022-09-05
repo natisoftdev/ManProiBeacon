@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  ManProiBeacon
+
+  Created by Natisoft on 14/06/2019.
+  Copyright © 2019 Kode. All rights reserved.
+*/
+
+/* -- Pannello -- */
+//INTERNET
+"Il dispositivo è connesso a Internet" = "The device is connected to the Internet";
+"Il dispositivo NON è connesso a Internet" = "The device is NOT connected to the Internet";
+//GPS
+"Il dispositivo ha il GPS attivo" = "The device has GPS active";
+"Il dispositivo NON ha il GPS attivo" = "The device has NO active GPS";
+//Bottoni
+"Test Connessione" = "Connection Test";
+"Test GPS" = "GPS test";
+//Parte Grafica
+"In questo pannello è possibile verificare in modo rapido se sul dispositivo sono attive le funzionalità inerenti al corretto funzionamento dell'applicazione" = "In this panel it is possible to quickly check if the device is active in the functionalities inherent to the correct operation of the application";
+
+
+/* -- MenuViewController -- */
+"Home" = "Home";
+"Pannello di controllo" = "Control panel";
+"Impostazioni" = "Settings";
+
+/* -- HomeVC -- */
+"LivelloBatteria" = "Battery Level";
+"Data Scansione" = "Date Scan";
+"Prossimità" = "Proximity";
+"Sconosciuto" = "Unknown";
+"Molto vicino" = "Very close";
+"Nelle vicinanze" = "Nearby";
+"Lontano" = "Far";
+"In caricamento......" = "Loading......";
+
+/* -- Impostazioni -- */
+"Account" = "Account";
+"Indirizzo del portale" = "Portal address";
+"Ad esempio https://sviluppo.manpronet.com" = "For example  https://sviluppo.manpronet.com";
+"Identificativo del database" = "Database identifier";
+"Il dato viene fornito dal gestore" = "The data is provided by the operator";
+"Login" = "Login";
+"Password" = "Password";
+"Salva" = "Save";
+"Versione dell'applicazione" = "Application version";
+"Indirizzo utilizzato per collegarsi al portale. Ad esempio https://sviluppo.manpronet.com" = "Address used to connect to the portal. For example https://sviluppo.manpronet.com";
+"Indirizzo del portale non corretto" = "Incorrect portal address";
+
+//Testi provenienti da pagina web
+"Nome utente o password errati" = "Incorrect username or password";
+"Risorsa non associata all'utente selezionato" = "Resource not associated with the selected user";
+"Le impostazioni di connessione risultano corrette" = "Connection settings are correct";
+"Database non impostato correttamente" = "Database not set up correctly";
+"Database non impostato" = "Database not set";
